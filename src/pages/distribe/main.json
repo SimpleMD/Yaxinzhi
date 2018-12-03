@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "微分销",
+    "usingComponents": {
+      "canvasdrawer": "../../../static/Cav/canvasdrawer/canvasdrawer"
+     }
+  }

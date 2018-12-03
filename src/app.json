@@ -1,0 +1,77 @@
+{
+  "pages": [ 
+    "pages/index/main",
+    "pages/helpdiscount/main",
+    "pages/myself/main",
+    "pages/groupitem/main",
+    "pages/group/main",
+    "pages/commission/main",
+    "pages/distribeUp/main",
+    "pages/distribestart/main",
+    "pages/distribe/main",
+    "pages/ranking/main",
+    "pages/coupon/main",
+    "pages/shopInfo/main",
+    "pages/grouplist/main",
+    "pages/order/main",
+    "pages/discountInfo/main",
+    "pages/orderList/main",
+    "pages/bargainInfo/main" ,
+    "pages/sign/main",
+    "pages/store/main",
+    "pages/groupdetail/main",   
+    "pages/bargain/main",
+    "pages/cart/main",
+    "pages/kind/main",  
+    "pages/counter/main",
+    "pages/discount/main",
+    "pages/address/main",
+    "pages/addressList/main",
+    "pages/storePay/main",
+    "pages/orderOne/main",
+    "pages/Recharge/main",
+    "pages/riliList/main",
+    "pages/fruitList/main",
+    "pages/distribefrom/main",
+    "pages/distribemoney/main",
+    "pages/distribePay/main",
+    "pages/search/main",
+    "pages/orderInfo/main",
+    "pages/Selflifting/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor":"#fc9632",
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "iconPath": "/static/images/home.png",
+        "selectedIconPath": "/static/images/homeselect.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/kind/main",
+        "iconPath": "/static/images/kind.png",
+        "selectedIconPath": "/static/images/kindselect.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/cart/main",
+        "iconPath": "/static/images/cart.png",
+        "selectedIconPath": "/static/images/cartselect.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/myself/main",
+        "iconPath": "/static/images/myself.png",
+        "selectedIconPath": "/static/images/myselfselect.png",
+        "text": "我的"
+      }
+    ]
+  }
+}
